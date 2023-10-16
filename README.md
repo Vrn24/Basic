@@ -1,7 +1,7 @@
 # Basic
 This repository contains examples and explanations of the basics of C++ programming, including printing "Hello, World!" and performing basic operations. This README provides an overview of how to get started with C++ programming.
 
-#Hello World
+Hello World
 Printing "Hello, World!" is a common starting point in C++ programming. You can achieve this using the cout object from the iostream library:
 
 #include <iostream>
@@ -11,9 +11,10 @@ int main() {
     return 0;
 }
 output
+
 ![image](https://github.com/Vrn24/Basic/assets/112547439/63c82414-abd6-4be4-b609-866e73b969cf)
 
-#Operations
+Operations
 C++ supports various basic operations, including arithmetic operations, variable declaration, and assignment. Here are some examples:
 
 #include <iostream>
@@ -39,6 +40,7 @@ int main() {
 
     return 0;
 }
+
 output
 ![image](https://github.com/Vrn24/Basic/assets/112547439/46d9ecb8-0063-4230-8b33-f87e26d17788)
 
